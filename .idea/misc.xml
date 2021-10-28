@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/imndf/Documents/PROGRAM APLIKASI MOBILE/FormApps/app/src/main/res/layout/activity_dashboard.xml" value="0.16458333333333333" />
         <entry key="..\:/Users/imndf/Documents/PROGRAM APLIKASI MOBILE/FormApps/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/imndf/Documents/PROGRAM APLIKASI MOBILE/FormApps/app/src/main/res/layout/activity_quiz.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/imndf/Documents/PROGRAM APLIKASI MOBILE/FormApps/app/src/main/res/layout/dimens.xml" value="0.22083333333333333" />
       </map>
     </option>
   </component>
